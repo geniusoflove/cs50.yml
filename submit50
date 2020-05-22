@@ -1,0 +1,10 @@
+usage: submit50 [-h] [--logout] [-v] [-V] slug
+
+positional arguments:
+  slug           prescribed identifier of work to submit
+
+optional arguments:
+  -h, --help     show this help message and exit
+  --logout       logout of submit50
+  -v, --verbose  show commands being executed
+  -V, --version  show program's version number and exit
